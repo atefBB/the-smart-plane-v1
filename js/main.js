@@ -290,7 +290,7 @@
         posx_choises = 0;
       }
 
-      //Ruturn on the first position
+      //Return on the first position
       if (posx_choises < -100) {
         posx_choises = 1200;
         console.log("i return");
